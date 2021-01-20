@@ -1,3 +1,3 @@
 # Kuantum
 
-API for QEMU in GOLANG
+TUI for QEMU in GOLANG
